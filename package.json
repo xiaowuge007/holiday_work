@@ -1,0 +1,23 @@
+{
+  "name": "zouxiu",
+  "version": "1.0.0",
+  "description": "项目\r >2017年1月18号上传",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaowuge007/holiday_work.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaowuge007/holiday_work/issues"
+  },
+  "homepage": "https://github.com/xiaowuge007/holiday_work#readme"
+}
