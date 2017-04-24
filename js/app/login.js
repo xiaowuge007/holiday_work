@@ -9,6 +9,7 @@ $(window).load(function(){
         $("#_enter ._form").eq($(this).index()).show();
     })
     var $a = 123;
+    var $a1 = [1,2,4,3];
     var $btn = true;
     $("._ck1").click(function(){
         if($btn){
